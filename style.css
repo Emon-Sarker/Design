@@ -1,0 +1,117 @@
+/* -----------Navbar section------------ */
+.navbar-brand{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+}
+nav ul li a{
+    color: black;
+    font-size: 17px;
+}
+nav ul> button{
+    font-size: 17px !important;
+}
+
+/* -----------Header section------------ */
+.headerimg{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(/img/1.jpg);
+    background-size: cover;
+    background-position: center top;
+    height: 100vh;
+    width: 100%;
+    margin: 0px;
+    padding: 60px;
+}
+
+/* --------page -2-------- */
+.row-1{
+    /* background-color: brown; */
+    height: 420px;
+}
+.subrow-1{
+    height: 210px;
+    /* background-color:green; */
+}
+.subrow-2{
+    height: 210px;
+    /* background-color: #fff; */
+}
+
+.image2{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/2.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 405px;  
+}
+.text-1{
+    line-height: 405px;
+    color: white;
+    font-size: 25px;
+}
+.image3{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 195px;
+}
+.image4{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/4.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 195px;
+}
+.image5{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/5.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 195px;
+}
+.image6{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/6.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 195px;
+}
+.text-2{
+    line-height: 195px;
+    color: white;
+    font-size: 25px;
+}
+
+/* -------------3rd page--------- */
+.page3{
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+
+
+/* ------------Page-4---------- */
+.abc{
+    height: 4px;
+    background: black;
+    width: 12%;
+}
+.page4{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+/* ------------page-5----------- */
+.page5{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/11.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+}
+.rowheight{
+    height: 60vh;
+    line-height: 10vh;
+}
+.icon i{
+    font-size: 20px;
+    color: gray;
+    padding-top: 5px;
+}
+.icon1 i{
+    padding-right: 5px;
+}
