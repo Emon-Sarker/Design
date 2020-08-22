@@ -14,7 +14,7 @@ nav ul> button{
 
 /* -----------Header section------------ */
 .headerimg{
-    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(/img/1.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,url(img/1.jpg);
     background-size: cover;
     background-position: center top;
     height: 100vh;
@@ -38,7 +38,7 @@ nav ul> button{
 }
 
 .image2{
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/2.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(img/2.jpg);
     background-size: cover;
     background-position: center;
     height: 405px;  
@@ -49,25 +49,25 @@ nav ul> button{
     font-size: 25px;
 }
 .image3{
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/3.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(img/3.jpg);
     background-size: cover;
     background-position: center;
     height: 195px;
 }
 .image4{
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/4.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(img/4.jpg);
     background-size: cover;
     background-position: center;
     height: 195px;
 }
 .image5{
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/5.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(img/5.jpg);
     background-size: cover;
     background-position: center;
     height: 195px;
 }
 .image6{
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/6.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(img/6.jpg);
     background-size: cover;
     background-position: center;
     height: 195px;
@@ -98,7 +98,7 @@ nav ul> button{
 }
 /* ------------page-5----------- */
 .page5{
-    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(/img/11.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0, 0, 0, 0.4)) , url(img/11.jpg);
     background-size: cover;
     background-position: center;
     height: 60vh;
